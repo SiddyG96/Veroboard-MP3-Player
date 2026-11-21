@@ -1,2 +1,33 @@
 # Veroboard-MP3-Player
 This project uses a Veroboard, Arduino Nano, OLED Display, DFPlayer Mini, TP4056 Module, pushbuttons, audio socket, and an SD Card. The TP4056 will be used for a lithium ion battery.
+
+1 × Arduino Nano ($11.99)
+https://www.amazon.com/LUIRSAY-2Pcs-ATmega328P-Microcontroller-Compatible/dp/B0F1FQMNXM/ref=sr_1_1?crid=7VLOBXE3WEO8&dib=eyJ2IjoiMSJ9.87rL5d9ziJpvx7A3OM0CuxgWB1jyYqARwwE-oC7y63hERwDQjLovhLWEGbAJC6yr191QAVfS2LUHVsUHSxb_AXnHZiCTpFzu3jbobKNI3cZTcM8ha1MXAkGrNIfBwGcLN-lnz7GXThCszrO0cWcnpgrIuURox1z4wLmoa0cKcJdJsBh8O5LEnuxP89mgq5jzqpfaxIv9roETxQ8lu312BiRbwDwOXbpGOcCr45qcMxU.j-2QAeL3TmHj6yOISeG6GaLjyhYai1pUKSur0f4QJkk&dib_tag=se&keywords=arduino%2Bnano%2Bv3&qid=1795288032&sprefix=arduino%2Bnano%2Bv3%2Caps%2C168&sr=8-1&th=1
+
+1 × DFPlayer Mini MP3 Module ($7.99)
+https://www.amazon.com/HiLetgo-Arduino-Player-Module-DFPlayer/dp/B01D1D0E7Q/ref=sr_1_1?crid=11O75LXFWMLX4&dib=eyJ2IjoiMSJ9.Xlb3RYENHO6uGlAHx7HHg0RZKhvrjw8RadgQmk1jvYEKOodUcDVOksEDX9AteS8s_8lXc82DMCpL1dj2ElUNUsZPz-D7z0pOE-jJlOfdUmTRBowxVOwKO2PFH8NP8Dw9N7PShPM7esgtC-SnURw76NBnc3mNkI4_7E5SJfmLRbmccea672DAmLDlqXBDaTEqF84NwmDTsPIF_UMLzCoKFNFSf0GCRVuVVhcTrU6a83M.gmmv3RhSOD-kpvB1E0t9eM-FtMXfirleX9lgJqNMVdA&dib_tag=se&keywords=robocraze+dfplayer+mini+mp3+module+%7C+serial+audio+player+board&nsdOptOutParam=true&qid=1795288135&sprefix=%2Caps%2C185&sr=8-1
+
+1 × 1.3″ OLED Display (I2C) ($8.49)
+https://www.amazon.com/ELEGOO-Display-Compact-Self-Luminous-Projects/dp/B0D2RMQQHR/ref=sr_1_8?crid=26IGDSPXH9BYY&dib=eyJ2IjoiMSJ9.1aY6C9Bg-hORLjyKE-xvRHo7yvczy_7triVjae0sMo5kMQmzU5Wd800HisGlnS_xnFa9BnyzleWDz7S3Wdxu6v3wQyAXF77lplQnhjovIbMeQnCSvjiTj3lq3t_zaWQO-LqiwKR_yzjuG9DItxzcFIEjODL5NfuRFUaPc2I_2iPpL5ZLu5rhG4aZCoPUhRhYIPHBLTtyIZW9NF6Jbfdr5aJ_MDR-vqunuehUPldQr6c.P67jB004XdKfC-j3ZElbgtihidtUAhbjn06GSUePXoI&dib_tag=se&keywords=1.3%2Binch%2Boled%2Bdisplay%2Bi2c&qid=1795288173&sprefix=%2Caps%2C238&sr=8-8&th=1
+
+1 × 3.5mm Audio Socket ($6.09)
+https://www.amazon.com/uxcell-Socket-Headphone-Stereo-Connector/dp/B07PFWH6FK/ref=sr_1_6?crid=YI14BOPF8YHI&dib=eyJ2IjoiMSJ9.Rnf0LlB9wPL-0Geeowlnfd9O-wgSe9v5yBtl3OOL8ibTW2yKchoEFya-xjBItaVviVU5li_uAeRO2gRagIUHseaR8gtHgjvIucMd7s7G7LzexKl8dmhybiURkklqoNONxzBbpwLKgyhDA3jECUkgsrv4SItKGTjOo4Plu3Sr1PVBGobcdIrYlvMkeWyQYMTMq4UAsYaL3NHl5w0tRhTavDy_BArw-t0mtebJixOvRX0.6Bs6RBk1Y3x_0K87g6GaWk9DiuBc02CkTNecDQF06bg&dib_tag=se&keywords=Electronicspices+5PCS+5+Pin+3.5mm+Stereo+Audio+Jack+Socket+PCB+Panel+Mount+for+Headphone+With+Nut+PJ-324M&nsdOptOutParam=true&qid=1795288409&sprefix=electronicspices+5pcs+5+pin+3.5mm+stereo+audio+jack+socket+pcb+panel+mount+for+headphone+with+nut+pj-324m%2Caps%2C171&sr=8-6
+
+1 × TP4056 Charging Module ($5.99)
+https://www.amazon.com/HiLetgo-Lithium-Charging-Protection-Functions/dp/B07PKND8KG/ref=sr_1_3?crid=3MLELSFXZE3X2&dib=eyJ2IjoiMSJ9.ronIpyGAZ5-OxdFDWLqu91nOaa57U69cLhAzda-C_2DkhiA3cnCXLDgnidrQ9Ppbj5i1EUsfISmhEGJ91Px6QINJjEDU0KhLnrgYjyuv_HIx51PoDLQxOwYfpa3mcmmgTF44Yh5OoVkndKf9-7YzQwc6rLSvv3W4FCFtx0rhnE4Kj7M9sCjTKwkacKsL48qOtB-wAa_CcHu-qBBqkXA0M91q1SYJEklox1NqJ1hoDVU.OdEJTyAeiTr2ou3pTityR4xSSAc4rImvK8QAEq3BJFk&dib_tag=se&keywords=tp4056+charging+module&qid=1795288434&sprefix=%2Caps%2C130&sr=8-3
+
+1 × 3.7V Lithium Ion Battery ($11.72)
+https://www.amazon.com/XINLANTECH-Rechargeable-XH2-54mm-2Pin-B0143KH9KG-Replacement/dp/B0CHY872T5/ref=sr_1_2?crid=LOKEMPY19XKO&dib=eyJ2IjoiMSJ9._FwlvJiaWW2kKz8kaU5K2aL42W-SMD7UqJrFgJ-EWy_QusSV629wRjTTqfoCIuhLnp_VqpVqLVOW4CXceHhLzagUokMODVNih1B3ujd-K_82FJPZu5QFwntAyYcDzrbBX5eD2oh4xfgmiTtbp8abl1ktan__wmOKd3glOKAXLNfJANSGOjVOGlSuk-N4b4dApdYz67rFf-H_dRukE0f-oEf50d3PAI4nqYfUsMYtkHwO9DFKCnOLb-BYl7T3ewAO0tXiNlyZr0I-mjTXgH9dq9HGXih0HKtyI3WQ5E7Ywlk.ICX_c_haX0W-wc8-_BbMF00bX-sEnrsMRMv1Dxqghw4&dib_tag=se&keywords=3.7v%2Bsingle%2Bcell%2Blithium%2Bion%2Bbattery%2B18650&qid=1795237174&sprefix=3.7v%2Bsingle%2Bcelllithium%2Bion%2Bbattery%2B18650%2Caps%2C266&sr=8-2&th=1
+
+1 × 3.7V Lithium Ion Battery Holder ($5.98)
+https://www.amazon.com/Stemedu-Battery-Storage-Plastic-Container/dp/B0BZ4KKZBR/ref=sr_1_5?crid=33G52YMVF7DV0&dib=eyJ2IjoiMSJ9.cW1V-J9Lagx5_lzmwClCRSSSNAGnbiKqUKOqtAHkPDpyJW9omP4Kz3S6cBMyRT2a_WrU2b1ufFMkEHtwD-A5gqXzGZTUVgREjaL7hcdKE5cvOYB5snJ7jfayhJ2dK2WNeI6oo_BeX6FHWpqyRZ2wkGi-EvBSetr_YHgT4sqpn__VRz92N7UpFZPRQugy-pryM15RvHXFmsw0AF3Kky9Hikbtt1__O4GtsTt1LGPAkfM.g883O4IDmW0q8CMuL2--JQcMPsGUMsSIrXkXgyT0dCI&dib_tag=se&keywords=3.7v+single+cell+lithium+ion+battery+18650+holder+plastic&nsdOptOutParam=true&qid=1795288795&sprefix=3.7v+single+cell+lithium+ion+battery+18650+holder+plasti%2Caps%2C208&sr=8-5
+
+3 × Push Buttons ($6.99)
+https://www.amazon.com/QTEATAK-Momentary-Tactile-Button-Switch/dp/B07VSNN9S2/ref=sr_1_1_sspa?crid=2ZXVU96EFMB85&dib=eyJ2IjoiMSJ9.e6qN_C8a5mb-IPgeGHNgGf7bp_FxMK4gap0C8o0fuvp784bZCYgWxvPFwHjX5sWaXacpnkQMWPw9BZgFKcj0vith5w3saSbamhuUBYKXWLd3cL0VRevdsRk4CE8AJ07IyiKH8p2ZU4VoneRn_y65uv0HQVxuEkY-eYao-upu33F3TMbhF86h_Cu3-24x0cV3zPYe7hfvzy2EX_vBkmbFBP8hC5y0bGknmMRXMzOU-zI.YYegMurbzRyN_gHsi9o2DsBu9_OTNc1ru9hdJup6LJQ&dib_tag=se&keywords=pushbuttons&qid=1795288942&sprefix=pushbutton%2Caps%2C176&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
+
+1 × Veroboard ($6.99)
+https://www.amazon.com/LampVPath-Prototype-Breadboard-Universal-Printed/dp/B07Y3NYX9C/ref=sr_1_2?crid=1L2PKYQVGV6PI&dib=eyJ2IjoiMSJ9.VkpCMX0H3l6jYvRLqhagkHp3GZmMEKVMLztnjsxMFVAPtecNLHEP0ojL6_MCerr5ns7fzwHmJku4XBUu6HHjuXRdLLwjZug35b5OGnUdhYDjlZ3tqYXc7-sFnLImGSz00mqBwkhXFHY1DFTmj1LFNxJYa2Hp8lInJN0B2bFN5AvyQvq7Beg35qLpjEMyfp4Omr5Vd9PdM_-KyiTDKNZoh1cUDnbXtxvlDYBe0LJgsVs.l1ciuiBJ4cVcAI8rBBhjRDhiDfb_0wP-uQm8XfYEgvM&dib_tag=se&keywords=veroboard%2B7x9%2Bcm&qid=1795288909&sprefix=veroboard%2B7x9%2Bcm%2Caps%2C226&sr=8-2&th=1
+
+Additional Connection Wires ($8-10)
+
+TOTAL: ~$81.22
